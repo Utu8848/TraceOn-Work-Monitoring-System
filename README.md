@@ -91,23 +91,6 @@ TraceOn follows a client-server model:
 5.  Click on a worker to view folders organized by date.
 6.  Click on a date folder to see all screenshots from that day. To view a full-size image, you must be logged into the Google Drive account associated with your registration email.
 
-## Folder Structure (Google Drive)
-
-Screenshots are automatically organized on Google Drive as follows:
-
-TraceOnScreenshots/
-├── [Overseer Code 1]/
-│ ├── [Worker Name]_[Worker Code]/
-│ │ ├── 2025-06-11/
-│ │ │ ├── screenshot_1.png
-│ │ │ └── screenshot_2.png
-│ │ └── 2025-06-12/
-│ │ └── ...
-│ └── ...
-├── [Overseer Code 2]/
-└── ...
-
-
 ## Future Enhancements
 
 - AI-powered classification of screenshots into productive/non-productive categories.
